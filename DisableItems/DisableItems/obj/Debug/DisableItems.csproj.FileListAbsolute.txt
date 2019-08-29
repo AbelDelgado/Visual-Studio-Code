@@ -1,0 +1,10 @@
+C:\Users\abel\source\repos\DisableItems\DisableItems\bin\Debug\DisableItems.exe.config
+C:\Users\abel\source\repos\DisableItems\DisableItems\bin\Debug\DisableItems.exe
+C:\Users\abel\source\repos\DisableItems\DisableItems\bin\Debug\DisableItems.pdb
+C:\Users\abel\source\repos\DisableItems\DisableItems\obj\Debug\DisableItems.csprojAssemblyReference.cache
+C:\Users\abel\source\repos\DisableItems\DisableItems\obj\Debug\DisableItems.Form1.resources
+C:\Users\abel\source\repos\DisableItems\DisableItems\obj\Debug\DisableItems.Properties.Resources.resources
+C:\Users\abel\source\repos\DisableItems\DisableItems\obj\Debug\DisableItems.csproj.GenerateResource.cache
+C:\Users\abel\source\repos\DisableItems\DisableItems\obj\Debug\DisableItems.csproj.CoreCompileInputs.cache
+C:\Users\abel\source\repos\DisableItems\DisableItems\obj\Debug\DisableItems.exe
+C:\Users\abel\source\repos\DisableItems\DisableItems\obj\Debug\DisableItems.pdb
