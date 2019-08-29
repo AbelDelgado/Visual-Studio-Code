@@ -1,0 +1,11 @@
+C:\Users\abel\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\abel\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\abel\source\repos\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\abel\source\repos\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\abel\source\repos\Lab1\Lab1\obj\Debug\Lab1.MainForm.resources
+C:\Users\abel\source\repos\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\abel\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\abel\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\abel\source\repos\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\abel\source\repos\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\abel\source\repos\Lab1\Lab1\obj\Debug\Lab1.PopupForm.resources
